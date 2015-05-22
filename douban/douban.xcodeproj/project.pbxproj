@@ -71,6 +71,7 @@
 		C2BC75FC1AF4683C0012ECB2 /* Activity.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BC75FB1AF4683C0012ECB2 /* Activity.m */; };
 		C2BC75FF1AF46A7C0012ECB2 /* ActivityManager.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BC75FE1AF46A7C0012ECB2 /* ActivityManager.m */; };
 		C2BC76031AF478240012ECB2 /* JSONKit.m in Sources */ = {isa = PBXBuildFile; fileRef = C2BC76021AF478240012ECB2 /* JSONKit.m */; };
+		C2CDD95B1B0EC1A2000C8FAD /* 1334245TableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = C2CDD95A1B0EC1A2000C8FAD /* 1334245TableViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -163,6 +164,8 @@
 		C2BC75FE1AF46A7C0012ECB2 /* ActivityManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ActivityManager.m; sourceTree = "<group>"; };
 		C2BC76011AF478240012ECB2 /* JSONKit.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSONKit.h; sourceTree = "<group>"; };
 		C2BC76021AF478240012ECB2 /* JSONKit.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = JSONKit.m; sourceTree = "<group>"; };
+		C2CDD9591B0EC1A2000C8FAD /* 1334245TableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = 1334245TableViewController.h; sourceTree = "<group>"; };
+		C2CDD95A1B0EC1A2000C8FAD /* 1334245TableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = 1334245TableViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -192,6 +195,8 @@
 		C20CE93C1AEFC405006A5831 = {
 			isa = PBXGroup;
 			children = (
+				C2CDD9591B0EC1A2000C8FAD /* 1334245TableViewController.h */,
+				C2CDD95A1B0EC1A2000C8FAD /* 1334245TableViewController.m */,
 				C20CE9781AEFC427006A5831 /* Myview */,
 				C20CE9791AEFC42F006A5831 /* MoiveView */,
 				C20CE9771AEFC416006A5831 /* Activity */,
@@ -554,6 +559,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				C2CDD95B1B0EC1A2000C8FAD /* 1334245TableViewController.m in Sources */,
 				C25D09401AF3B8610014D686 /* ResignViewController.m in Sources */,
 				C20CE9591AEFC406006A5831 /* AppDelegate.m in Sources */,
 				C26715271AF266E1000BC483 /* MovieTableViewCell.m in Sources */,

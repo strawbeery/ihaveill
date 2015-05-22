@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F0A6CA84-2206-4A0B-9375-E1D04A444415</string>
+	<key>IDESourceControlProjectName</key>
+	<string>douban</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>147ED874857F9886647C4F1EDAD027B484F6CA12</key>
+		<string>https://github.com/strawbeery/ihaveill.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>douban/douban.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>147ED874857F9886647C4F1EDAD027B484F6CA12</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/strawbeery/ihaveill.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>147ED874857F9886647C4F1EDAD027B484F6CA12</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>147ED874857F9886647C4F1EDAD027B484F6CA12</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ihaveill</string>
+		</dict>
+	</array>
+</dict>
+</plist>
